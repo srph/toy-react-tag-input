@@ -1,8 +1,8 @@
 ![preview](preview.gif)
-# react-tags-demo
+# react-tags-test
 Attempt to make a "tagging" input on ReactJS.
 
-Based on basic functions of http://aehlke.github.io/tag-it/.
+Based on the basic functions of http://aehlke.github.io/tag-it/.
 
 ## Running
 ```bash
