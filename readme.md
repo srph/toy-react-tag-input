@@ -2,7 +2,7 @@
 # react-tags-test
 Attempt to make a "tagging" input on ReactJS.
 
-Based on the basic functions of http://aehlke.github.io/tag-it/.
+Based on the basic functions of [jQuery Tag-it](http://aehlke.github.io/tag-it/).
 
 ## Running
 ```bash
