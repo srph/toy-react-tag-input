@@ -1,4 +1,4 @@
-![preview](preview.png)
+![preview](preview.gif)
 # react-tags-demo
 Attempt to make a "tagging" input on ReactJS.
 
