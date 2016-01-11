@@ -74,7 +74,7 @@ class TagInput extends React.Component {
 
     if ( this.state.items.length && evt.keyCode === 8 && !this.state.input.length ) {
       this.setState(state => ({
-        items: state.items.slice(0, state.items.length - 2)
+        items: state.items.slice(0, state.items.length - 1)
       }));
     }
   }
