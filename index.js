@@ -42,7 +42,7 @@ class TagInput extends React.Component {
       }
     };
     return (
-      <div>
+      <label>
         <ul style={styles.container}>
           {this.state.items.map((item, i) => 
             <li key={i} style={styles.items} onClick={this.handleRemoveItem(i)}>
@@ -56,7 +56,7 @@ class TagInput extends React.Component {
             onChange={this.handleInputChange}
             onKeyDown={this.handleInputKeyDown} />
         </ul>
-      </div>
+      </label>
     );
   }
 
